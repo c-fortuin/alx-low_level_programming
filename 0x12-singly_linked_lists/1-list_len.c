@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include "lists.h"
 /**
- * size_t list_len- function that returns the number of 
+ * list_len- function that returns the number of 
  * elements in a linked list_t list
  * @h: pointer
  * Return: Number of elemnts in h
